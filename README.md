@@ -36,4 +36,4 @@ This project is a browser-based chatbot application. It integrates a Machine Lea
 
 ### JavaScript Features
 - **`<script type="module">` Tag**
-   With this approach you can use the import and export keywords.
+  With this approach you can use the import and export keywords.
